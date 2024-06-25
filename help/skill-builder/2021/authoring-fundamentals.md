@@ -1,6 +1,6 @@
 ---
-title: Schnelles Erstellen schöner Web-Erlebnisse
-description: Lernen Sie die Grundlagen des Authorings kennen und erfahren Sie, wie Sie Seiten schnell erstellen und bearbeiten.
+title: Schnelles Erstellen ansprechender Web-Erlebnisse
+description: Erfahren Sie mehr über die Grundlagen und Fertigkeiten der Bearbeitung von Seiten, um Seiten schnell zu erstellen und zu bearbeiten.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -12,22 +12,22 @@ version: Cloud Service
 type: Event
 kt: 8945
 exl-id: cc4b57a5-c76a-48fa-9c05-39374081fc45
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: ht
-source-wordcount: '151'
-ht-degree: 100%
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+workflow-type: tm+mt
+source-wordcount: '150'
+ht-degree: 42%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] – Grundlagen
 
-In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Manager ansprechende Kundenerlebnisse schaffen. Wir beginnen mit den Bausteinen der Inhaltserstellung und stellen Ihnen die grundlegenden Konzepte und Vorgänge vor. Dazu gehören Sites Admin-Funktionen und Grundlagen zur Handhabung digitaler Assets in AEM. Im späteren Verlauf der Reihe lernen Sie Funktionen kennen, mit denen Sie Zeit sparen und effizienter arbeiten können, indem Sie Inhalte wiederverwenden und kanalübergreifend bereitstellen.
+In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Manager ansprechende Kundenerlebnisse schaffen. Die Reihe beginnt mit den Bausteinen der Inhaltsbearbeitung und stellt Sie den grundlegenden Konzepten und Vorgängen vor. Es enthält Sites-Admin-Funktionen und Grundlagen zum Umgang mit digitalen Assets in AEM. Im zweiten Teil der Serie finden Sie Funktionen, mit denen Sie Zeit sparen und effizienter arbeiten können, indem Sie die Inhalte wiederverwenden und kanalübergreifend bereitstellen.
 
 ## Schnelles Erstellen schöner Web-Erlebnisse
 
 >[!VIDEO](https://video.tv.adobe.com/v/337014/?quality=12&learn=on&hidetitle=true)
 
-Lernen Sie die Grundlagen des Authorings kennen und erfahren Sie, wie Sie Seiten schnell erstellen und bearbeiten.
+Lernen Sie grundlegende Authoring-Fähigkeiten kennen, um Seiten schnell zu erstellen und zu bearbeiten.
 
 ## Aufzeichnungen der Reihe
 

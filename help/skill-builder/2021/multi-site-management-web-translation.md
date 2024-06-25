@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 8936
 exl-id: 68c48c94-1878-4bdb-af7d-d6e4f88f9315
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: ht
-source-wordcount: '170'
-ht-degree: 100%
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+workflow-type: tm+mt
+source-wordcount: '169'
+ht-degree: 64%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] – Grundlagen
 
-In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Manager ansprechende Kundenerlebnisse schaffen. Wir beginnen mit den Bausteinen der Inhaltserstellung und stellen Ihnen die grundlegenden Konzepte und Vorgänge vor. Dazu gehören Sites Admin-Funktionen und Grundlagen zur Handhabung digitaler Assets in AEM. Im späteren Verlauf der Reihe lernen Sie Funktionen kennen, mit denen Sie Zeit sparen und effizienter arbeiten können, indem Sie Inhalte wiederverwenden und kanalübergreifend bereitstellen.
+In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Manager ansprechende Kundenerlebnisse schaffen. Die Reihe beginnt mit den Bausteinen der Inhaltsbearbeitung und stellt Sie den grundlegenden Konzepten und Vorgängen vor. Es enthält Sites-Admin-Funktionen und Grundlagen zum Umgang mit digitalen Assets in AEM. Im zweiten Teil der Serie finden Sie Funktionen, mit denen Sie Zeit sparen und effizienter arbeiten können, indem Sie die Inhalte wiederverwenden und kanalübergreifend bereitstellen.
 
 ## Ein globales Erlebnis mit Adobe Experience Manager
 

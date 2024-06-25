@@ -12,22 +12,22 @@ version: Cloud Service
 type: Event
 kt: 8935
 exl-id: fef99f2a-8480-4c64-8dbb-a120d203b498
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: ht
-source-wordcount: '161'
-ht-degree: 100%
+source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 52%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] – Grundlagen
 
-In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Manager ansprechende Kundenerlebnisse schaffen. Wir beginnen mit den Bausteinen der Inhaltserstellung und stellen Ihnen die grundlegenden Konzepte und Vorgänge vor. Dazu gehören Sites Admin-Funktionen und Grundlagen zur Handhabung digitaler Assets in AEM. Im späteren Verlauf der Reihe lernen Sie Funktionen kennen, mit denen Sie Zeit sparen und effizienter arbeiten können, indem Sie Inhalte wiederverwenden und kanalübergreifend bereitstellen.
+In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Manager ansprechende Kundenerlebnisse schaffen. Die Reihe beginnt mit den Bausteinen der Inhaltsbearbeitung und stellt Sie den grundlegenden Konzepten und Vorgängen vor. Es enthält Sites-Admin-Funktionen und Grundlagen zum Umgang mit digitalen Assets in AEM. Im zweiten Teil der Serie finden Sie Funktionen, mit denen Sie Zeit sparen und effizienter arbeiten können, indem Sie die Inhalte wiederverwenden und kanalübergreifend bereitstellen.
 
 ## Inhalte für alle Kanäle: So werden Omni-Channel-Erlebnisse Wirklichkeit
 
 >[!VIDEO](https://video.tv.adobe.com/v/336982/?quality=12&learn=on&hidetitle=true)
 
-Erfahren Sie, wie Sie Erlebnisse von einer zentralen Umgebung aus optimal auf einer Vielzahl von Kanälen bereitstellen.
+Erfahren Sie, wie Sie Erlebnisse in einer zentralen Umgebung über eine Vielzahl von Kanälen hinweg optimal bereitstellen können.
 
 ## Aufzeichnungen der Reihe
 
