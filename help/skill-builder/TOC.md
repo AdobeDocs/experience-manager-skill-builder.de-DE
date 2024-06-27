@@ -2,7 +2,7 @@
 user-guide-title: AEM Skill Builder
 user-guide-description: Aufgezeichnete Webinar-Reihe zum Erweitern Ihres Wissens und Optimieren Ihrer Investition in Adobe [!DNL Experience Manager].
 source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
 ht-degree: 100%
 
