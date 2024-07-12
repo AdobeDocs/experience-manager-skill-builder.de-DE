@@ -3,7 +3,7 @@ title: Überblick über Skill Builder
 description: Aufgezeichnete Webinar-Reihe zum Erweitern Ihres Wissens und Optimieren Ihrer Investition in Adobe Experience Manager.
 exl-id: 2aa648cc-6a44-4d1d-98ab-a351abc80b6b
 source-git-commit: ea51ea7b5b0a3ff1160d418c524471c0a60359ca
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
 
