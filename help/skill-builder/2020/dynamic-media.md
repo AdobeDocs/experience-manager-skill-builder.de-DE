@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Dynamic Media]"
+title: '[!DNL Dynamic Media]'
 description: Automatisieren der Ausgabe von Assets für alle Kanäle und Bildschirme
 solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
 product: experience manager
