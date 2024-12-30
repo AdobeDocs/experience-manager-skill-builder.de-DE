@@ -5,7 +5,7 @@ source-wordcount: '292'
 ht-degree: 56%
 
 ---
-# Beitrag zur Dokumentation von Adobe Experience Manager Skill Builder
+# Beiträge zur Adobe Experience Manager Skill Builder-Dokumentation
 
 Vielen Dank, dass Sie sich entschieden haben, zur Adobe Experience Manager Screens-Dokumentation beizutragen! Adobe begrüßt Inhaltsbeiträge der gesamten Leser-Community und von Adobe-Mitarbeitenden.
 
@@ -26,11 +26,12 @@ Melden Sie als Erstes ein Problem. Die vorhandenen Verantwortlichen bei diesem P
 
 ## Lizenzvereinbarung für Anbieter (CLA)
 
-Eine unterzeichnete Lizenzvereinbarung für Mitwirkende muss allen Drittanbieter-Beiträgen zu diesem Projekt beigefügt sein. Diese Vereinbarung gibt der Adobe die Erlaubnis, Ihre Beiträge im Rahmen des Projekts zu verteilen. [Signieren von Adobe CLA](https://opensource.adobe.com/cla.html). Sie müssen nur einmal eine Adobe-CLA übermitteln. Wenn Sie also bereits eine übermittelt haben, können Sie sofort loslegen!
+Allen Drittanbieter-Beiträgen zu diesem Projekt muss eine unterzeichnete Lizenzvereinbarung für Mitwirkende hinzugefügt werden. Dieser Vertrag gibt Adobe die Erlaubnis, Ihre Beiträge zu verteilen
+als Teil des Projekts. [Sign Adobe auf CLA](https://opensource.adobe.com/cla.html). Sie müssen nur einmal eine Adobe-CLA übermitteln. Wenn Sie also bereits eine übermittelt haben, können Sie sofort loslegen!
 
 ## Codeüberprüfungen
 
-Alle Übermittlungen sollten in Form von Pull-Anfragen erfolgen. Projektverantwortliche überprüfen die Einsendungen. Weitere Informationen zum Senden von Pull-Anfragen finden Sie in der [Dokumentation zu Pull Requests auf GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+Alle Übermittlungen sollten in Form von Pull-Anforderungen erfolgen. Projektverantwortliche überprüfen die Einreichungen. Weitere Informationen zum Senden von Pull-Anfragen finden Sie in der [Dokumentation zu Pull Requests auf GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
@@ -39,8 +40,8 @@ submitting a pull request!
 
 ## Vom Mitwirkenden zum Verantwortlichen
 
-Adobe begrüßt Beiträge der Community. Wenn Sie ein Committer mit vollem Schreibzugriff und einer Stimme im Projekt werden möchten, müssen Sie zum Projekt eingeladen werden. Die vorhandenen Verantwortlichen verwenden einen internen Nominierungsprozess, der einen verzögerten Konsens erreichen muss (Schweigen bedeutet Zustimmung), bevor Einladungen veröffentlicht werden. Wenn Sie qualifiziert sind und stärker involviert werden möchten, wenden Sie sich an bestehende Committer.
+Adobe begrüßt Beiträge der Community. Wenn Sie ein Verantwortlicher mit vollem Schreibzugriff und einer Stimme im Projekt werden möchten, müssen Sie zum Projekt eingeladen werden. Die vorhandenen Verantwortlichen verwenden einen internen Nominierungsprozess, bei dem ein Konsens erreicht werden muss (Schweigen bedeutet Zustimmung), bevor Einladungen ausgegeben werden. Wenn Sie qualifiziert sind und stärker involviert werden möchten, wenden Sie sich an bestehende Verantwortliche.
 
 ## Sicherheitsprobleme
 
-Sicherheitsprobleme sollten bei diesem Problemtracker nicht gemeldet werden. stattdessen [ein Problem bei Adobe-Sicherheitsexperten einreichen](https://helpx.adobe.com/de/security/alertus.html)
+Sicherheitsprobleme sollten bei diesem Problemtracker nicht gemeldet werden. Stattdessen [ Sie ein Problem an Adobe-Sicherheitsexperten](https://helpx.adobe.com/de/security/alertus.html)

@@ -7,7 +7,7 @@ ht-degree: 70%
 ---
 # Artikel beitragen
 
-Adobe begrüßt Beiträge der Community und von Adobe-Mitarbeitern von außerhalb der Dokumentationsteams.
+Adobe begrüßt Beiträge der Community und von Adobe-Mitarbeitern von außerhalb der Dokumentations-Teams.
 
 ## Adobe Open Source-Verhaltenskodex
 
@@ -27,7 +27,7 @@ Kleinere Korrekturen oder Erläuterungen, die Sie für Dokumentation und Code-Be
 
 ### Größere Änderungen oder neue Artikel von Communitymitgliedern
 
-Adobe-Community-Mitglieder, die einen neuen Artikel erstellen oder wichtige Updates vorschlagen möchten, sollten den Prozess initiieren, indem sie ein Problem über die Registerkarte Probleme des Git-Repositorys einreichen und den Dialog mit dem Dokumentationsteam öffnen. Nachdem Sie sich auf einen Plan geeinigt haben, arbeiten Sie mit einem Mitarbeiter zusammen, um diesen neuen Inhalt durch eine Kombination von Arbeiten in den öffentlichen und privaten Repositorys zu integrieren.
+Adobe-Community-Mitglieder, die einen neuen Artikel verfassen oder wichtige Updates vorschlagen möchten, sollten den Prozess initiieren, indem sie ein Problem über die Registerkarte „Probleme“ des Git-Repositorys senden und das Dialogfeld mit dem Dokumentations-Team öffnen. Nachdem Sie sich auf einen Plan geeinigt haben, arbeiten Sie mit einem Mitarbeiter zusammen, um diesen neuen Inhalt durch eine Kombination von Arbeiten in den öffentlichen und privaten Repositorys einzubringen.
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
@@ -35,7 +35,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Größere Änderungen von Adobe-Mitarbeitern
 
-Technische Autoren, Programmmanager und Entwickler, die mit der Erstellung der Adobe Experience Cloud-Dokumentation beauftragt sind, sollten über das private Repository unter `https://git.corp.adobe.com/AdobeDocs`.
+Technische Redakteure, Programm-Manager und Entwickler, die mit der Erstellung der Adobe Experience Cloud-Dokumentation betraut sind, sollten dies über das private Repository unter `https://git.corp.adobe.com/AdobeDocs` tun.
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
@@ -57,4 +57,4 @@ Alle Artikel in diesem Repository verwenden GitHub Flavored Markdown. Wenn Sie m
 Im öffentlichen Repository werden automatisierte Beschriftungen Abruf-Anfragen zugewiesen, die uns helfen, den Arbeitsablauf für Abruf-Anfragen zu verwalten und Ihnen mitzuteilen, was mit Ihrer Abruf-Anfrage passiert:
 
 * **Change sent to author**: Der Autor wurde über die ausstehende Abruf-Anfrage informiert.
-* **Bereit zum Zusammenführen**: Bereit zur Überprüfung durch das Pull-Anforderungsteam von Adobe.
+* **ready-to-merge**: Bereit zur Überprüfung durch das Überprüfungsteam der Adobe-Pull-Anfrage.
