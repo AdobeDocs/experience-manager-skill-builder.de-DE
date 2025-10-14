@@ -44,4 +44,4 @@ Adobe begrüßt Beiträge der Community. Wenn Sie ein Verantwortlicher mit volle
 
 ## Sicherheitsprobleme
 
-Sicherheitsprobleme sollten bei diesem Problemtracker nicht gemeldet werden. Stattdessen [ Sie ein Problem an Adobe-Sicherheitsexperten](https://helpx.adobe.com/de/security/alertus.html)
+Sicherheitsprobleme sollten bei diesem Problemtracker nicht gemeldet werden. Stattdessen [&#x200B; Sie ein Problem an Adobe-Sicherheitsexperten](https://helpx.adobe.com/de/security/alertus.html)
