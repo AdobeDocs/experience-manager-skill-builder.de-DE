@@ -1,7 +1,7 @@
 ---
 title: Ordnerstruktur und Suchen
 description: Grundlagen zum Einrichten und Verwenden Ihres DAM
-solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Asset Management
@@ -12,10 +12,10 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7338
 exl-id: 596b3f82-405c-47bf-af63-55f72bd8634e
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 83%
 
 ---
 
@@ -29,13 +29,13 @@ Die Grundlagen zum Einrichten und Verwenden Ihres DAM.
 
 ## Ressourcen
 
-* [[!DNL AEM Assets] -Benutzerhandbuch](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/assets/assets)
-* [Einrichten der [!DNL AEM Assets] -Ordnerstruktur](https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/configuring/baseline-folders)
-* [Einrichten von [!DNL AEM Assets] -Ordnerberechtigungen](https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/configuring/baseline-permissions)
+* [[!DNL AEM Assets]-Benutzerhandbuch](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/assets/assets)
+* [Einrichten  [!DNL AEM Assets]  Ordnerstruktur](https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [Einrichten  [!DNL AEM Assets]  Ordnerberechtigungen](https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/configuring/baseline-permissions)
 * [Verwenden von Sammlungen zum Organisieren und Freigeben von Assets](https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/search-and-discovery/collections)
-* [Finden visuell ähnlicher Assets mit maschinellem Lernen](https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/search-and-discovery/search)
-* [Erhalten genauer Suchergebnisse mit dynamischen Suchfacetten](https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/search-and-discovery/search)
-* [Erweiterte Syntax für die Volltextsuche](https://experienceleague.adobe.com/de/docs/experience-manager-64/assets/using/gql-search#using)
+* [Suchen nach visuell ähnlichen Assets mit maschinellem Lernen](https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [Erhalten Sie präzise und genaue Suchergebnisse mit dynamischen Suchfacetten](https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [Erweiterte Volltextsuchsyntax](https://experienceleague.adobe.com/de/docs/experience-manager-64/assets/using/gql-search#using)
 
 ## Aufzeichnungen der Reihe
 
