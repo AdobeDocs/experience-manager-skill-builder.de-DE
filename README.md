@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # ARCHIVIERT
 
-Dieses Repository wurde nach <https://github.com/Adobe-Enterprise-Docs/experience-manager-skill-builder.en> migriert
+Dieses Repository wurde nach <https://github.com/Adobe-Enterprise-Docs/experience-manager-skill-builder.de-DE> migriert
