@@ -2,10 +2,13 @@
 title: Überblick über Skill Builder
 description: Aufgezeichnete Webinar-Reihe zum Erweitern Ihres Wissens und Optimieren Ihrer Investition in Adobe Experience Manager.
 exl-id: 2aa648cc-6a44-4d1d-98ab-a351abc80b6b
-source-git-commit: ea51ea7b5b0a3ff1160d418c524471c0a60359ca
+TQID: https://experienceleague.adobe.com/DBs8CswgvdKhcDyp2fD3ufBqFK4ts8VAsF7QPasXg9o
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+source-git-commit: 3fdd2bfc409767ca32451c865beb7919f95a7c2f
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: 174
+ht-degree: 98%
 
 ---
 
@@ -36,8 +39,8 @@ Willkommen bei der Startseite der Adobe [!DNL Experience Manager] Skill Builder-
     </a>
     <div>
     <a href="https://experienceleague.adobe.com/de/docs/experience-manager-skill-builder/skill-builder/for-2020/brand-portal">
-<strong>Brand Portal</strong>
-</a>
+    <strong>Brand Portal</strong>
+    </a>
     </div>
     <p>
     <em>Einfache Asset-Freigabe für interne und externe Teams.</em>
