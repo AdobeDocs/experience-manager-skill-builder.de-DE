@@ -15,7 +15,7 @@ exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790
 source-git-commit: 37b06cb96ba679d7f65a774d9fe59eeb6109775b
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -31,8 +31,8 @@ Automatisieren Sie die Ausgabe von Assets für alle Kanäle und Bildschirme mit 
 
 *[[!DNL Dynamic Media] Anwendungsfälle](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-journey-part1)
 *[[!DNL Dynamic Media] Videos](https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
-*[Schnellstart-Handbuch zur Rich Media-Strategie](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
-*[Handbuch zu Bildvorgaben für die Rich Media-Strategie](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
+*[Schnellstartanleitung zur Rich-Media-Strategie](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
+*[Handbuch zu Rich-Media-Strategien für Bildvorgaben](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
 *[Best Practices für Dynamic Media](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
 
 ## Aufzeichnungen der Reihe
