@@ -12,13 +12,22 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7342
 exl-id: feadb1e0-ea1a-42ab-abf8-9791be46796e
-source-git-commit: 37b06cb96ba679d7f65a774d9fe59eeb6109775b
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 754371f13e13449e2d933f32e840b3372918b465
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 92%
-
 ---
-
 # [!DNL Asset Link] – Reihe zu Adobe [!DNL Experience Manager Assets]
 
 Erweitern Sie mit dieser fünfteiligen Webinar-Reihe Ihr Wissen und optimieren Sie Ihre Investition in Adobe [!DNL Experience Manager Assets]. Neu oder mit Adobe [!DNL Experience Manager Assets] bereits erfahren? Perfektionieren Sie Ihr Wissen durch eine gründliche Untersuchung der fünf Schlüsselfunktionen. Erweitern Sie auf effiziente Art und Weise Ihr Know-how. Adobe-Fachleute erläutern die Grundlagen und geben Ihnen tiefgreifende Einblicke, sodass Sie für die nächsten Schritte bereit sind und sie sofort umsetzen können.
@@ -38,5 +47,5 @@ Erweitern Sie mit dieser fünfteiligen Webinar-Reihe Ihr Wissen und optimieren S
 
 * [Brand Portal](brand-portal.md)
 * [[!DNL Dynamic Media]](dynamic-media.md)
-* [Ordnerstruktur und Suchen](folder-structure-search.md)
+* [Ordnerstruktur und Suche](folder-structure-search.md)
 * [Metadaten](metadata.md)
